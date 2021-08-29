@@ -1,5 +1,5 @@
 # Pinball-Wizard
-made by Shaan ans my friend Ronik
+made by Shaan and his friend Ronik
 https://king-of-games920.github.io/Pinball-Wizard/
 
 
